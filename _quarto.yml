@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Recipes"
+  search: true
+  navbar:
+    background: primary
+    right:
+      - text: DJM homepage
+        href: https://dajmcdon.github.io/
+      - icon: github
+        text: github-source
+        href: https://github.com/dajmcdon/cooking-blog
+format:
+  html:
+    theme: [cosmo, djmquarto.scss]
+    css: styles.css
+
+
+

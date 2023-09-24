@@ -1,0 +1,51 @@
+---
+title: "Miso soup"
+date: "2023-09-24"
+categories: [soup, easy, asian, template]
+---
+
+
+This is really a "template" for miso soup. All listed ingredients are 
+optional except the soup base. I'll usually make about 6-8 cups of broth
+for the 3-4 meals. I try to keep most ingredients "around" so I can 
+throw this together if I don't have time / ideas for dinner.
+
+---
+
+### Soup base
+
+- miso paste
+- Instant Dashi, I use Ajinomoto HonDashi
+
+### Ingredients template
+
+- Something leafy (spinach, seaweed, parsley, etc.)
+- Some stems (fennel, celery, asparagus, green beans, etc.)
+- Some roots (carrot, daikon, radish, celery root, potato?)
+- Protein (mushrooms, tofu, clams, rotisserie chicken, etc.)
+
+### Seasonings (all optional)
+
+- soy sauce
+- sesame oil
+- sesame seeds
+- anything else
+
+
+---
+
+1. Make the soup base. Bring water to a simmer. Remove about 1/2 cup to
+mix with the miso paste. Add the instant dashi powder (1 tsp per 2 cups 
+water).
+2. You'll need about 1 Tbsp miso paste per 2 cups of liquid. Add it to 
+the removed liquid and stir until incorporated. If your paste is old, it
+helps to force it through a fine strainer. Or you could use a small
+blender or a miso muddler. Mix back into the simmering stock.
+3. Add all ingredients. You want at least one thing from each category. 
+They should all cook pretty quickly. Taste for saltiness, and add salt
+or soy sauce. 
+
+::: aside
+The instant dashi contains MSG. It doesn't bother most people, but will
+put my mother in the hospital.
+:::
