@@ -11,11 +11,14 @@ website:
         href: https://dajmcdon.github.io/
       - icon: github
         text: github-source
-        href: https://github.com/dajmcdon/cooking-blog
+        href: https://github.com/dajmcdon/recipes-cooking
+
 format:
   html:
     theme: [cosmo, djmquarto.scss]
     css: styles.css
 
+execute: 
+  freeze: auto
 
 
