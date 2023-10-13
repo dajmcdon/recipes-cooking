@@ -1,0 +1,82 @@
+---
+title: "Black-eyed peas and collards"
+date: "2024-01-01"
+author: "Happy New Years (and birthday)!" 
+draft: true
+categories: [soup, easy]
+---
+
+<!--
+format: 
+  pdf:
+    geometry: 
+      - top=2cm
+      - left=2cm
+      - bottom=2cm
+      - right=2cm
+-->
+
+I've made this a few times (often cheating with the pressure cooker). It's 
+very satisfying in the winter, and maybe brings good luck!
+
+This recipe makes 4-6 servings but can be doubled. The beans freeze well.
+
+It requires soaking the beans the night before.
+
+![Fred R. Conrad / The New York Times](black-eyed-peas.jpg){width=450}
+
+---
+
+### Beans
+
+- 1 pound black-eyed peas
+- 1 pound smoked ham hock (with bone), or 1 pound ham steak
+- 1 large white/yellow onion
+- 2 cloves garlic
+- 1 bay leaf
+- 1/2 tsp allspice
+
+### Greens
+
+- 1 bunch collard greens
+- 1/2 tsp crushed red pepper (optional)
+- 4 scallions
+- 2 cloves garlic
+- 1 Tbsp vegetable oil
+
+---
+
+1. Soak beans about 8-12 hours, either overnight or start in the morning the
+day you want to cook
+1. Drain beans and rinse briefly. Add to a heavy dutch oven with ham hock and 
+8 cups water. Add bay leaf. For the onion, peel it but keep the root intact. 
+Trim the root a bit, then quarter the onion through the root so the quarters
+hold together. Add to the dutch oven. Add allspice, 2 garlic cloves (whole), 
+a good bit of black pepper and a hefty pinch of salt.
+1. Bring beans to a boil over high heat, then reduce to a simmer (occasional
+bubbles breaking the surface). Skim and discard any foam that rises to the
+surface with a slotted spoon. Simmer for 90 minutes to 2 hours. The water
+should cover the beans by 1 inch. Add more if needed, and stir occasionally.
+1. Meanwhile, wash collards and remove the stems if desired (definitely the 
+bottom bits). Lay the whole bunch on top of each other, roll the leaves, then
+slice across the roll into thin ribbons (about 1/2 inch wide). Slice or mince
+2 cloves of garlic.
+1. Turn off the heat. Check broth for seasoning and adjust salt and pepper. 
+Remove ham. Chop meat in rough pieces and set aside. Remove onion, garlic, and
+bay leaf and discard.
+1. Set a large pan (with a lid) over medium heat and add the oil. Add garlic
+and red 
+pepper, and reduce heat to medium low. After about 30 seconds, add the 
+collards, season with salt and black pepper, add 1 cup of water, and stir. Add
+the chopped ham from the beans. Cover and cook until the greens are soft,
+about 20 minutes. Meanwhile, slice the scallions crosswise. Check seasoning.
+
+To serve, but the greens in a bowl and add a ladle or two of beans and broth.
+Top with some scallions and hot sauce (Franks or Tobasco) if desired.
+
+
+::: aside
+
+Adapted from the [New York Times Cooking](https://cooking.nytimes.com/recipes/1017090-black-eyed-peas-with-ham-hock-and-collards?algo=identity&fellback=true&imp_id=3344690956791332&req_id=4562944953071369&surface=cooking-search-web&variant=0_relevance_reranking) recipe by David Tanis.
+
+:::
