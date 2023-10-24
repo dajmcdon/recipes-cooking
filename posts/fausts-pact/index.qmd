@@ -1,15 +1,17 @@
 ---
 title: "Faust's Pact"
 date: "2023-10-23"
-categories: [cocktail]
+categories: cocktail
 ---
 
 This was a favourite cocktail among my graduate school friends. We first
 tried it at a now-closed bar called Embury near the Strip District in
-Pittsburgh. The bartender moved to [Meat & Potatoes](https://meatandpotatoespgh.com), and we kept ordering it (off 
+Pittsburgh. 
+
+The bartender moved to [Meat & Potatoes](https://meatandpotatoespgh.com), and we kept ordering it (off 
 menu) on occasional trips downtown (conveniently located across from
 Heinz Hall and the PSO). He eventually gave us the broad outlines of the
-recipe. It's basically a Daiquiri made with Gin, but made extra spicy,
+recipe. It's basically a Daiquiri made with gin, but made extra spicy,
 herbaceous, and delicious.
 
 After reading through Dave Arnold's [Liquid Intelligence](https://www.powells.com/book/liquid-intelligence-the-art-science-of-the-perfect-cocktail-9780393089035), and with a big birthday 
@@ -19,7 +21,8 @@ be far too much time).
 
 The blender muddle will only work if you make at least 2 (possibly 4) 
 drinks at once. You need the blades of the blender completely submerged in
-the alcohol to prevent the basil from turning brown.
+the alcohol to prevent the basil from turning brown. The result is 
+neon green, and looks awesome.
 
 _Recipe for 1 drink_
 
@@ -28,6 +31,7 @@ _Recipe for 1 drink_
 - 60 ml gin
 - 30 ml lemon juice
 - 20 ml 50/50 simple syrup
+- 3-4 dashes Angostura bitters
 - 2-3 1/2 inch slices of jalapeño
 - 1/2 inch knob of ginger, peeled
 - 5 basil leaves
@@ -39,10 +43,10 @@ _Recipe for 1 drink_
 Make sure the blades (and all the solids) are completely covered. If you
 are planning to serve immediately, you can add the lemon juice. Blend for 
 5-10 seconds until pureed.
-1. Combine blender contents with simple syrup and lemon juice in a 
+1. Combine blender contents with simple syrup, bitters,
+and lemon juice in a 
 cocktail shaker. Add lots of ice and shake for 10-15 seconds.
 1. Double strain into a chilled coupe glass and garnish with a bit of
 cayenne pepper if desired.
-ice
 
 
