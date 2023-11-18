@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/dajmcdon/recipes-cooking/index.html</loc>
-    <lastmod>2023-10-24T05:03:04.385Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/dajmcdon/recipes-cooking/posts/pork-noodle-soup/index.html</loc>
-    <lastmod>2023-10-24T05:03:03.337Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/dajmcdon/recipes-cooking/posts/fausts-pact/index.html</loc>
-    <lastmod>2023-10-24T05:03:02.509Z</lastmod>
+    <loc>https://github.com/dajmcdon/recipes-cooking/posts/sourdough/index.html</loc>
+    <lastmod>2023-11-18T18:04:12.729Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/dajmcdon/recipes-cooking/posts/miso-soup/index.html</loc>
-    <lastmod>2023-10-24T05:03:01.789Z</lastmod>
+    <lastmod>2023-11-18T18:04:12.041Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/dajmcdon/recipes-cooking/posts/sourdough/index.html</loc>
-    <lastmod>2023-10-24T05:03:01.421Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/dajmcdon/recipes-cooking/posts/miso-vinagrette/index.html</loc>
-    <lastmod>2023-10-24T05:03:02.149Z</lastmod>
+    <loc>https://github.com/dajmcdon/recipes-cooking/posts/fausts-pact/index.html</loc>
+    <lastmod>2023-11-18T18:04:11.437Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/dajmcdon/recipes-cooking/posts/beef-stew/index.html</loc>
-    <lastmod>2023-10-24T05:03:02.949Z</lastmod>
+    <lastmod>2023-11-18T18:04:10.877Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/dajmcdon/recipes-cooking/index.html</loc>
+    <lastmod>2023-11-18T18:04:09.997Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/dajmcdon/recipes-cooking/about.html</loc>
-    <lastmod>2023-10-24T05:03:03.637Z</lastmod>
+    <lastmod>2023-11-18T18:04:10.517Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/dajmcdon/recipes-cooking/posts/miso-vinagrette/index.html</loc>
+    <lastmod>2023-11-18T18:04:11.153Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/dajmcdon/recipes-cooking/posts/pork-noodle-soup/index.html</loc>
+    <lastmod>2023-11-18T18:04:12.345Z</lastmod>
   </url>
 </urlset>
