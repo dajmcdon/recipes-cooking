@@ -1,1 +1,1 @@
-Sitemap: https://github.com/dajmcdon/recipes-cooking/sitemap.xml
+Sitemap: https://dajmcdon.github.io/recipes-cooking/sitemap.xml
