@@ -11,6 +11,14 @@ _8 servings_
 
 ---
 
+::: aside
+
+Lightly adapted from: [NYT Cooking](https://cooking.nytimes.com/recipes/1020927-pork-noodle-soup-with-ginger-and-toasted-garlic?q=pork%20noodle). Recipe by
+Alison Roman.
+
+:::
+
+
 - 1 pound ground pork
 - 3-6 cloves of garlic, thinly sliced (optional)
 - red pepper flakes, to taste
@@ -47,9 +55,4 @@ the cilantro.
 raw onion, cilantro, and garlic. Add more soy sauce, fish sauce, or
 sriracha if you like.
 
-::: aside
-
-Lightly adapted from: <https://cooking.nytimes.com/recipes/1020927-pork-noodle-soup-with-ginger-and-toasted-garlic?q=pork%20noodle>
-
-:::
 

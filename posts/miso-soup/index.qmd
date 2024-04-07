@@ -12,6 +12,11 @@ throw this together if I don't have time / ideas for dinner.
 
 ---
 
+::: aside
+The instant dashi contains MSG. It doesn't bother most people, but will
+put my mother in the hospital.
+:::
+
 ### Soup base
 
 - miso paste
@@ -45,7 +50,3 @@ blender or a miso muddler. Mix back into the simmering stock.
 They should all cook pretty quickly. Taste for saltiness, and add salt
 or soy sauce. 
 
-::: aside
-The instant dashi contains MSG. It doesn't bother most people, but will
-put my mother in the hospital.
-:::

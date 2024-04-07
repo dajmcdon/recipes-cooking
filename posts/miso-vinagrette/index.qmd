@@ -23,6 +23,13 @@ salted peanuts.
 
 ---
 
+::: aside
+
+Lightly adapted from: [NYT Cooking](https://cooking.nytimes.com/recipes/1021463-miso-sesame-vinaigrette-thats-good-on-anything). Recipe by J. Kenji Lopez-Alt.
+
+:::
+
+
 All measurements approximate.
 
 - 8 Tbsp vineger, usually split 50/50 wine vinegar and balsamic or Shiaoxing
@@ -46,8 +53,3 @@ blender without splattering everywhere, then do it in thirds.
 
 Store in an air-tight container in the fridge for up to a month.
 
-::: aside
-
-Lightly adapted from: <https://cooking.nytimes.com/recipes/1021463-miso-sesame-vinaigrette-thats-good-on-anything>
-
-:::

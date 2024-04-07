@@ -27,6 +27,12 @@ It requires soaking the beans the night before.
 
 ---
 
+::: aside
+
+Adapted from the [New York Times Cooking](https://cooking.nytimes.com/recipes/1017090-black-eyed-peas-with-ham-hock-and-collards?algo=identity&fellback=true&imp_id=3344690956791332&req_id=4562944953071369&surface=cooking-search-web&variant=0_relevance_reranking) recipe by David Tanis.
+
+:::
+
 ### Beans
 
 - 1 pound black-eyed peas
@@ -75,8 +81,3 @@ To serve, but the greens in a bowl and add a ladle or two of beans and broth.
 Top with some scallions and hot sauce (Franks or Tobasco) if desired.
 
 
-::: aside
-
-Adapted from the [New York Times Cooking](https://cooking.nytimes.com/recipes/1017090-black-eyed-peas-with-ham-hock-and-collards?algo=identity&fellback=true&imp_id=3344690956791332&req_id=4562944953071369&surface=cooking-search-web&variant=0_relevance_reranking) recipe by David Tanis.
-
-:::
