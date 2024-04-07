@@ -8,6 +8,13 @@ categories: [soup, asian]
 
 ---
 
+::: aside
+
+Lightly adapted from: [NYT Cooking, James Oseland and Julia Moskin]( https://cooking.nytimes.com/recipes/1012384-indonesian-chicken-soup-with-noodles-turmeric-and-ginger-soto-ayam)
+
+:::
+
+
 - 12 cups chicken stock
 - 1 lb chicken, breasts or thighs
 - 3 cloves of garlic
@@ -48,10 +55,5 @@ directions. Drain and rinse.
 and the greens. Garnish with cilantro and fried shallots. Serve with lime
 and/or chili paste.
 
-::: aside
-
-Lightly adapted from: <https://cooking.nytimes.com/recipes/1012384-indonesian-chicken-soup-with-noodles-turmeric-and-ginger-soto-ayam>
-
-:::
 
 
