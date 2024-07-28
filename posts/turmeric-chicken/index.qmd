@@ -4,12 +4,21 @@ date: "2024-07-27"
 categories: [asian, easy]
 ---
 
-This is an easy, but flavourful stir fry that I make regularly. It only takes
+This is an easy, but flavourful stir fry that I make regularly. 
+
+It only takes
 about 20 minutes to make. I usually serve it with rice and sauteed greens 
 (cooked with a 50/50 mixture of soy sauce and water).
 
 
 ---
+
+::: aside
+
+Lightly adapted from: [NYT Cooking, Ali Slagle](https://cooking.nytimes.com/recipes/1020970-turmeric-black-pepper-chicken-with-asparagus)
+
+:::
+
 
 - 1 lb asparagus
 - 2 Tbsp flour or cornstarch

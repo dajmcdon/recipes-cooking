@@ -10,7 +10,7 @@ categories: [soup, asian]
 
 ::: aside
 
-Lightly adapted from: [NYT Cooking, James Oseland and Julia Moskin]( https://cooking.nytimes.com/recipes/1012384-indonesian-chicken-soup-with-noodles-turmeric-and-ginger-soto-ayam)
+Lightly adapted from: [NYT Cooking, James Oseland and Julia Moskin](https://cooking.nytimes.com/recipes/1012384-indonesian-chicken-soup-with-noodles-turmeric-and-ginger-soto-ayam)
 
 :::
 
