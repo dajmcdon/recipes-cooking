@@ -1,7 +1,7 @@
 ---
 title: "Speedy tomato soup"
 date: "2024-09-19"
-categories: [easy]
+categories: [easy, soup]
 ---
 
 This is a very fast homemade tomato soup.

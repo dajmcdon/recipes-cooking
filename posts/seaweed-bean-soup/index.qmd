@@ -1,0 +1,45 @@
+---
+title: "White bean and seaweed soup"
+date: "2024-12-29"
+categories: [asian, soup, italian, easy, instantpot]
+---
+
+
+![Romulo Yanes for The New York Times. Food Stylist: Vivian Lui.](https://static01.nyt.com/images/2019/04/30/dining/30seaweedrex3/30seaweedrex3-threeByTwoMediumAt2X.jpg?quality=75&auto=webp)
+
+---
+
+::: aside
+
+Lightly adapted from: [NYT Cooking, Melissa Clark](https://cooking.nytimes.com/recipes/1020191-creamy-white-bean-and-seaweed-stew-with-parmesan)
+
+:::
+
+- 1 lb dried white beans, soaked for 8 hours in 1L water, 
+with 1 Tbsp salt and 1/4 tsp baking soda
+- 1 large onion
+- olive oil
+- 1 fennel bulb, fronds reserved and chopped finely if available
+- 3-4 celery stalks
+- 3 carrots
+- 4 cloves garlic
+- 16 in^2 kombu, rinsed
+- 1 tsp dried thyme
+- 1/2 cup shredded dried wakame (like [this one](https://www.amazon.com/Chung-Jung-One-Premium-Seaweed/dp/B0075ZD08C/ref=sr_1_7?crid=2VORHVH0HDZ5L&dib=eyJ2IjoiMSJ9.zLwUnW_NCtwuSyVtC-ONUCZ0tem6KkefiEb5EG0Hv_QMrH_cGpASrUDhZsMPTGJ7KPISga-_BpNzbkQEGZEpBLSNkWOJdouOS5Iuw0U-hd6ziH4YS676fl2Jh-FTaQcD-zD5khLBxa2nJAsDf3rBlVbamPywxJqT68CjaWd1UnzyW_uGVQMPr5H_VCNdMCih9PX7GNlpN5sDKV9Hcy11IqLlNS21kuPT1JlqX1lsggWyvROncesYEluEvxokAxM-_-AyaNawwFqupEtyv-PKj_vcs7vMxJU-HOUB9MVUfK7vom9ePVAi6RGK2RndgYTQxZ_0Jz4VtDWaT51j2suigjPT2O8TMBtCbVgNOa4Zefct3SpJxFSnGH_LvN29TN714gHnzZOX7joXNaxIC99aUyegLMFz7KHZeb8xqHS0LSQwk0KHBoHLipHRSX8khbd6.CRJustO5UBg2I7XDgjKzF4Ny8uzJ4TZoGQcp_jBmbWk&dib_tag=se&keywords=soup%2Bseaweed&qid=1735491148&sprefix=soup%2Bseaweed%2Caps%2C152&sr=8-7&th=1))
+- parmesean cheese
+
+---
+
+1. Set InstantPot to Saute. Dice onion. Add oil to pot with onion. Saute about 
+5 minutes with a pinch of salt.
+1. Meanwhile, dice fennel, celery, and carrots. Add to pot.
+1. Finely chop garlic. Add to pot and saute another minute. Turn off pot.
+1. Drain and rinse beans. Add to pot with 2-3 L water (or stock), the kombu, 
+and the thyme. Season lightly with salt. 
+1. Seal cooker and cook on high pressure for 20 minutes. Allow 
+pressure to release naturally.
+1. Open pressure cooker. Use an immersion blender for 2-3 seconds to blend a
+small amount of the soup (most of the beans should remain whole).
+1. Taste for seasoning and adjust with additional salt and pepper.
+1. Add in the wakame and allow to rehydrate.
+1. Serve in bowls with grated parmesean and any chopped fennel fronds
