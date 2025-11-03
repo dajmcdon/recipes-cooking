@@ -1,8 +1,10 @@
 ---
 title: "Instant pot beef stew"
 date: "2023-10-12"
-categories: [soup, pressure]
+categories: [soup, instantpot]
+image: https://www.seriouseats.com/thmb/Qvx8nVPv4XuwkFI1D18F4osKorU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__10__20161017-pressure-cooker-American-beef-stew-13-8388620dfb46491ba4f669813545700b.jpg
 ---
+
 
 This is pretty close to a one pot meal. Best served with a green salad or 
 green vegetable with viniagrette and baguette.

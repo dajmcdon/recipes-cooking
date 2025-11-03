@@ -2,6 +2,7 @@
 title: "Green pasta"
 date: "2024-07-27"
 categories: [vegetarian, easy]
+image: https://static01.nyt.com/images/2024/06/20/multimedia/ab-extra-green-pasta-saladrex-mfqv/ab-extra-green-pasta-saladrex-mfqv-mediumThreeByTwo440.jpg
 ---
 
 ![Johnny Miller for The New York Times. Food Stylist: Samantha Seneviratne.](https://static01.nyt.com/images/2024/06/20/multimedia/ab-extra-green-pasta-saladrex-mfqv/ab-extra-green-pasta-saladrex-mfqv-threeByTwoMediumAt2X.jpg?width=1280&quality=75&auto=webp)

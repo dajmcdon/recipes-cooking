@@ -2,6 +2,7 @@
 title: "Indian butter tofu and cauliflower"
 date: "2024-04-01"
 categories: [vegetarian, lunch]
+image: https://static01.nyt.com/images/2019/03/11/dining/sc-butter-tofu/merlin_151400949_506842b1-ded5-442e-88b5-4f1e13be071e-master768.jpg?w=1280&q=75
 ---
 
 ![Linda Xiao for The New York Times. Food Stylist: Monica Pierini.](https://static01.nyt.com/images/2019/03/11/dining/sc-butter-tofu/merlin_151400949_506842b1-ded5-442e-88b5-4f1e13be071e-master768.jpg?w=1280&q=75)

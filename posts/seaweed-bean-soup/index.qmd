@@ -2,6 +2,7 @@
 title: "White bean and seaweed soup"
 date: "2024-12-29"
 categories: [asian, soup, italian, easy, instantpot]
+image: https://static01.nyt.com/images/2019/04/30/dining/30seaweedrex3/30seaweedrex3-threeByTwoMedium440.jpg
 ---
 
 

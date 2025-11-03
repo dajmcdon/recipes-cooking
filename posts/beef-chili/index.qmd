@@ -2,6 +2,7 @@
 title: "Instant pot beef chili"
 date: "2025-10-25"
 categories: [soup, instantpot]
+image: https://www.seriouseats.com/thmb/IaDzHpM5vXCIUm9ZychiFkcruvo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__01__20190122-pressure-cooker-chili-vicky-wasik-17-85f2d96c91874fbb910bc2394e37d4e5.jpg
 ---
 
 

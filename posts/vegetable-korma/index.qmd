@@ -2,6 +2,7 @@
 title: "Vegetable korma"
 date: "2024-07-27"
 categories: [vegetarian, lunch]
+image: https://static01.nyt.com/images/2023/04/12/multimedia/ZS-vegetable-korma-hblf/ZS-vegetable-korma-hblf-mediumThreeByTwo440.jpg?quality=75&auto=webp
 ---
 
 ![Christopher Testani for The New York Times. Food Stylist: Simon Andrews.](https://static01.nyt.com/images/2023/04/12/multimedia/ZS-vegetable-korma-hblf/ZS-vegetable-korma-hblf-threeByTwoMediumAt2X.jpg?width=1280&quality=75&auto=webp)
