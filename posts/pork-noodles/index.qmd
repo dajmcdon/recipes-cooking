@@ -2,7 +2,7 @@
 title: "Pork noodles"
 date: "2024-07-27"
 categories: [asian, easy]
-image: https://static01.nyt.com/images/2022/03/23/dining/17padthairex3/merlin_203116365_994a1217-d3d5-40d9-b26b-a6718a450b67-threeByTwoMedium440.jpg
+image: https://static01.nyt.com/images/2022/03/23/dining/17padthairex3/merlin_203116365_994a1217-d3d5-40d9-b26b-a6718a450b67-mediumThreeByTwo440.jpg?quality=75&auto=webp
 ---
 
 This is a mashup of 2 different recipes:

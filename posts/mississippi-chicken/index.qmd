@@ -2,7 +2,7 @@
 title: "Mississippi chicken"
 date: "2025-11-02"
 categories: [easy, instantpot]
-image: https://static01.nyt.com/images/2025/07/22/multimedia/kd-mississippi-chicken-hqpk/kd-mississippi-chicken-hqpk-threeByTwoMedium440.jpg
+image: https://static01.nyt.com/images/2025/07/22/multimedia/kd-mississippi-chicken-hqpk/kd-mississippi-chicken-hqpk-mediumThreeByTwo440.jpg?quality=75&auto=webp
 ---
 
 ![Rachel Vanni for The New York Times. Food Stylist: Simon Andrews.](https://static01.nyt.com/images/2025/07/22/multimedia/kd-mississippi-chicken-hqpk/kd-mississippi-chicken-hqpk-threeByTwoMediumAt2X.jpg?quality=75&auto=webp)
